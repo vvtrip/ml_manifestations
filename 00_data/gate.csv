@@ -1,0 +1,37 @@
+code,branch,registered,appeared,apppercent,gen,obc,scst
+AE,Aerospace Engineering,6931,5255,75.8187851681,33.3,29.9,22.1
+AG,Agricultural Engineering,2777,2362,85.0558156284,25,22.5,16.6
+AR,Architecture and Planning,11450,9080,79.3013100437,41.5,37.3,27.6
+BM,Biomedical Engineering,2345,1860,79.3176972281,25,22.5,16.6
+BT,Biotechnology,21210,17078,80.5186232909,38.9,35,25.9
+CE,Civil Engineering,108136,85869,79.4083376489,28.3,25.4,18.8
+CH,Chemical Engineering,16930,13937,82.3213230951,25,22.5,16.6
+CS,Computer Science and Information Technology,152652,123967,81.2088934308,27.6,24.8,18.4
+CY,Chemistry,35382,26825,75.8153863546,25.2,22.6,16.7
+DA,Data Science and Artificial Intelligence,52493,39210,74.6956737089,37.1,33.3,24.7
+EC,Electronics and Communication Engineering,78157,63092,80.7246951649,25,22.5,16.6
+EE,Electrical Engineering,73728,59599,80.8363172743,25.7,23.1,17.1
+ES,Environmental Science and Engineering,8847,6445,72.849553521,37.9,34.1,25.2
+EY,Ecology and Evolution,3336,2359,70.7134292566,35.8,32.2,23.8
+GE,Geomatics Engineering,3238,2491,76.9302038295,41.1,36.9,27.4
+GG1,Geology and Geophysics (Geology),7154,5574,77.9144534526,42,37.8,28
+GG2,Geology and Geophysics (Geophysics),1037,822,79.2671166827,49,44.1,32.6
+IN,Instrumentation Engineering,12451,9900,79.5116858084,32.7,29.4,21.8
+MA,Mathematics,17617,13425,76.2048021797,25,22.5,16.6
+ME,Mechanical Engineering,83114,65546,78.8627668022,28.6,25.7,19
+MN,Mining Engineering,8515,7046,82.7480916031,25,22.5,16.6
+MT,Metallurgical Engineering,3858,3111,80.6376360809,41,36.9,27.3
+NM,Naval Architecture and Marine Engineering,517,361,69.8259187621,25.1,22.5,16.7
+PE,Petroleum Engineering,2146,1770,82.4790307549,42.6,38.3,28.4
+PH,Physics,26475,20258,76.5174693107,32,28.8,21.3
+PI,Production and Industrial Engineering,4915,3725,75.7884028484,30.5,27.4,20.3
+ST,Statistics,2663,1694,63.6124671423,26.6,23.9,17.7
+TF,Textile Engineering and Fibre Science,1765,1422,80.566572238,28.1,25.2,18.7
+XE,Engineering Sciences,14941,11261,75.3697878321,36.2,32.5,24.1
+XH-C1,Humanities and Social Sciences (Economics),3748,2721,72.598719317,37,33.3,24.6
+XH-C2,Humanities and Social Sciences (English),5488,3900,71.0641399417,48,43.2,32
+XH-C3,Humanities and Social Sciences (Linguistics),368,277,75.2717391304,49.7,44.7,33.1
+XH-C4,Humanities and Social Sciences (Philosophy),513,340,66.2768031189,39.3,35.3,26.1
+XH-C5,Humanities and Social Sciences (Psychology),4872,3415,70.0944170772,52.7,47.4,35.1
+XH-C6,Humanities and Social Sciences (Sociology),1566,1020,65.1340996169,36,32.4,24
+XL,Life Sciences,44904,36275,80.7834491359,29.3,26.3,19.5
